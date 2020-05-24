@@ -1,4 +1,4 @@
-# Deploiement
+# Déploiement
 
 * 🔖 **Définition**
 * 🔖 **Syntaxe**
@@ -53,6 +53,6 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Intérogez vous sur les noeuds requis pour un déployment sur mobile et/ou web en fonction de votre projet et représentez dans un premier temps les noeuds et artefacts. Dans un second temps mettez les en relation.
+Interrogez vous sur les nœuds requis pour un déploiement sur mobile et/ou web en fonction de votre projet et représentez dans un premier temps les nœuds et artefacts. Dans un second temps mettez les en relation.
 
 ___

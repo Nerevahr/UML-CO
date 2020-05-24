@@ -44,7 +44,7 @@ Il s'agit du modèle du modèle Model-View-Controller.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/05/message.jpg)
 
-Un message indique un flux d'informations ou une transition de contrôle entre les éléments. Il indique une intération via l'exéctuion d'une opération de l'élément ciblé.
+Un message indique un flux d'informations ou une transition de contrôle entre les éléments. Il indique une interaction via l’exécution d'une opération de l'élément ciblé.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/05/return.png)
 
@@ -82,7 +82,7 @@ Des opérations peuvent se répéter ou être sous condition. Les structures mod
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/05/fragment.png)
 
-Les fragments possèdent un opérateur et optionnement une guard.
+Les fragments possèdent un opérateur et optionnellement une guard.
 
 ### 🏷️ **Opérateurs**
 

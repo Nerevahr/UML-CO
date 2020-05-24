@@ -9,7 +9,7 @@ ___
 
 ## 📑 Historique
 
-De nombreuses propositions de représentations graphiques pou les languages orientés objets on été formulés.
+De nombreuses propositions de représentations graphiques pou les langages orientés objets on été formulés.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/02-History.jpg)
 
@@ -21,7 +21,7 @@ James Rumbaugh proposait avec l'OMT (object modeling technique) l'ancêtre du di
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/04-OMT.jpg)
 
-Il manquait d'unifier ces représeentations, l'ouvrage de référence "Aspect-oriented software development with use cases" et la mise en commun des ressources de l'auteur Ivar Jacobson et les deux protagonistes cités en 1995 on normalisé les représentation et donné la première version d'UML.
+Il manquait d'unifier ces représentations, l'ouvrage de référence "Aspect-oriented software development with use cases" et la mise en commun des ressources de l'auteur Ivar Jacobson et les deux protagonistes cités en 1995 on normalisé les représentation et donné la première version d'UML.
 
 ![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/05-Jacobson.jpg)
 

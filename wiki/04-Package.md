@@ -20,7 +20,7 @@ ___
 
 ### 🏷️ **MVC**
 
-Le motif MVC possède une organisation type de paquetage, si vous êtes dans l'utilisation d'un cadre applicatif, les responsabilitées sont claires et documetées, la prise de décision est minimisée. Sans framework, je vous conseil de vous inspirer des règles établies par différents cadres pour vous cadrer vous même.
+Le motif MVC possède une organisation type de paquetage, si vous êtes dans l'utilisation d'un cadre applicatif, les responsabilités sont claires et documentées, la prise de décision est minimisée. Sans framework, je vous conseil de vous inspirer des règles établies par différents cadres pour vous cadrer vous même.
 
 🔗 [Spring best practices](https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3)
 
@@ -61,6 +61,6 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Mettez vos classes dans le package correspondant et complétez votre diagramme de classe: ajouter une ou des classes sans opérations dans chaque package sur votre diagramme de classe principal. Différencier les classes par une oculeur et mettez en palce les relations.
+Mettez vos classes dans le package correspondant et complétez votre diagramme de classe: ajouter une ou des classes sans opérations dans chaque package sur votre diagramme de classe principal. Différencier les classes par une couleur et mettez en place les relations.
 
 ___

@@ -41,7 +41,7 @@ Un cas d'utilisation est un élément de modélisation UML qui décrit comment u
 
 Une association implique que deux éléments de modèle ont une relation, généralement implémentée en tant que variable d'instance dans une ou les deux classes. 
 
-> L'associate n'est pas dirigée. Pour diférencier une association allant d'un acteur à un use case et l'inverse il est courant de nommer l'action de l'association allant vers un acteur.
+> L'association n'est pas dirigée. Pour différencier une association allant d'un acteur à un use case et l'inverse il est courant de nommer l'action de l'association allant vers un acteur.
 
 ### 🏷️ **Include**
 
@@ -61,7 +61,7 @@ ___
 
 ## 📑 Logiciel
 
-Plusieurs logiciels permmetent de modéliser, notre objectif et de procéder à une manipulation rapide sans être géné par la compréhension de l'outil.
+Plusieurs logiciels permettent de modéliser, notre objectif et de procéder à une manipulation rapide sans être géné par la compréhension de l'outil.
 
 * Enterprise Architect
 * Visio
@@ -70,13 +70,13 @@ Plusieurs logiciels permmetent de modéliser, notre objectif et de procéder à 
 * PlantUML
 * StarUML
 
-L'URSAFF utilise Enterprise Architect par exemple qui est un outil complet mais qui demande une courbe d'apprentissage longue. 
+L'URSSAF utilise Enterprise Architect par exemple qui est un outil complet mais qui demande une courbe d'apprentissage longue. 
 
 > Pour rester focus sur UML et ne pas avoir de contrainte logiciel je préconise actuellement StarUML qui possède une interface dépouillée. Vous pouvez exporter votre diagramme sous forme d'image et de fragment pour qu'il puisse être importé dans un autre fichier de travail.
 ___
 
 👨🏻‍💻 Manipulation
 
-Installer un logiciel UML puis proposer les use cases diagrammes des projets respectifs au niveau des objecifs utilisateur sans détail. Les pousser sur le repository ou un autre dédié.
+Installer un logiciel UML puis proposer les use cases diagrammes des projets respectifs au niveau des objectifs utilisateur sans détail. Les pousser sur le repository ou un autre dédié.
 
 ___
