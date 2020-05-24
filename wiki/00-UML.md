@@ -11,10 +11,10 @@ ___
 
 ## Sommaire
 
-* [UML](https://github.com/POEC-20-05/UML/wiki/01)
-* [Use Case](https://github.com/POEC-20-05/UML/wiki/02)
-* [Classe](https://github.com/POEC-20-05/UML/wiki/03)
-* [Package](https://github.com/POEC-20-05/UML/wiki/04)
-* [Sequence](https://github.com/POEC-20-05/UML/wiki/05)
-* [Deploiement](https://github.com/POEC-20-05/UML/wiki/06)
+* [UML](https://github.com/POEC-20-05/UML-CO/wiki/01)
+* [Use Case](https://github.com/POEC-20-05/UML-CO/wiki/02)
+* [Classe](https://github.com/POEC-20-05/UML-CO/wiki/03)
+* [Package](https://github.com/POEC-20-05/UML-CO/wiki/04)
+* [Sequence](https://github.com/POEC-20-05/UML-CO/wiki/05)
+* [Deploiement](https://github.com/POEC-20-05/UML-CO/wiki/06)
 ___
