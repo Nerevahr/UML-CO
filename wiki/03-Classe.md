@@ -16,7 +16,7 @@ ___
 
 Une classe possède un identifiant, une structure avec ses attributs puis un comportement avec ses opéations (méthodes). Contraitement à la programmation fonctionnelle elle permet de réutiliser des attributs (variables) et des opéations (fonctions) pour le contexte d'éxécution de la classe. 
 
-![image](./resources/03/class.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/class.png)
 
 Une classe s'instancie avec l'opérateur d'instanciation pour obtenir un objet qui correspond à l'objet en cours de manipulation au sein de la classe et donc au contexte d'exécution. L'objet construit est du type de la classe, John est de type Employee.
 
@@ -37,7 +37,7 @@ ___
 
 Les attributs et méthodes possèdent un modifieur qui définit un niveau de visibilité. En UML il existe 4 niveaux de visibilité.
 
-![image](./resources/03/visibility.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/visibility.png)
 
 ### 🏷️ **Public**
 
@@ -122,25 +122,25 @@ ___
 
 ### 🏷️ **Association**
 
-![image](./resources/03/associate.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/associate.png)
 
 Une association implique que deux éléments de modèle ont une relation, généralement implémentée en tant que variable d'instance dans une des deux Classes.
 
 ### 🏷️ **Dépendance**
 
-![image](./resources/03/dependency.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/dependency.png)
 
 Une dépendance est une relation qui signifie qu'un élément nécessite un autre élément pour sa spécification ou son implémentation. Toute modification de la classe en dépendance peut casser le fonctionnement de la classe dépendante.
 
 ### 🏷️ **Agrégation**
 
-![image](./resources/03/aggregate.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/aggregate.png)
 
 Un connecteur d'agrégation est un type d'association qui montre qu'un élément contient ou est composé d'autres éléments. L'enfant peut exister indépendemment du parent.
 
 ### 🏷️ **Composition**
 
-![image](./resources/03/compose.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/compose.png)
 
 Une composition est utilisée pour représenter un élément composé de composants plus petits, généralement dans une association de diagrammes de classes ou de packages qui montre qu'un élément contient ou est composé d'autres éléments. L'enfant ne peut pas exister indépendemment du parent. 
 
@@ -154,11 +154,11 @@ ___
 
 ## 📑 Généralisation
 
-![image](./resources/03/generalize.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/generalize.png)
 
 Une généralisation est une relation taxonomique entre un classificateur plus général et un classificateur plus spécifique. Chaque instance du classificateur spécifique est également une instance indirecte du classificateur général. Ainsi, le classificateur spécifique hérite des fonctionnalités du classificateur plus général.
 
-![image](./resources/03/generalisation.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/generalisation.jpg)
 
 > L'héritage précise que la classe fille hérite de tous les attributs et méthodes, qu'ils soient publics, protégés ou privés. Cependant, elle ne peut pas utiliser directement les attributs et méthodes privés (que ce soit en lecture ou en écriture), sauf par l'intermédiaire d'une méthode héritée (publique ou protégée). 
 
@@ -168,7 +168,7 @@ Pratique pour factoriser des attributs et opérations, il faut que la relation s
 
 Un canard en plastique ne doit pas hériter d'un canard parce que c'est un jouet.
 
-![image](./resources/03/01-LSP.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/01-LSP.jpg)
 
 ___
 
@@ -181,7 +181,7 @@ ___
 ## 📑 Interfaces
 
 
-![image](./resources/03/interface.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/interface.jpg)
 
 Une interface est une spécification de comportement (ou contrat) que les implémenteurs acceptent de respecter. Les interfaces en UML ne possèdent que des spécification d'opétations publiques.
 
@@ -189,14 +189,14 @@ Une interface est une spécification de comportement (ou contrat) que les implé
 
 Se réprésente sous forme de rond sans détail ou dans un rectangle avec detail.
 
-![image](./resources/03/interface-exemple.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/interface-exemple.png)
 
 ### 🏷️ **Interface Realization**
 
-![image](./resources/03/realize.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/realize.png)
 
 Un objet source implémente ou réalise son objet de destination.
 
-![image](./resources/03/realization.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/03/realization.jpg)
 
 La classe qui implémente une interface doit implémenter l'es opérations déclarés, soit directement soit complété par un parent. 

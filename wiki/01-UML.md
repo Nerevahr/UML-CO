@@ -3,7 +3,7 @@
 * 🔖 **Historique**
 * 🔖 **Vues**
 
-![image](./resources/01/01-UML.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/01-UML.jpg)
 
 ___
 
@@ -11,23 +11,23 @@ ___
 
 De nombreuses propositions de représentations graphiques pou les languages orientés objets on été formulés.
 
-![image](./resources/01/02-History.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/02-History.jpg)
 
 Une représentation du modèle statiques, l'ancêtre du diagramme de classe a été formulé par Grady Booch.
 
-![image](./resources/01/03-Boosh.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/03-Boosh.jpg)
 
 James Rumbaugh proposait avec l'OMT (object modeling technique) l'ancêtre du diagramme d'objet.
 
-![image](./resources/01/04-OMT.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/04-OMT.jpg)
 
 Il manquait d'unifier ces représeentations, l'ouvrage de référence "Aspect-oriented software development with use cases" et la mise en commun des ressources de l'auteur Ivar Jacobson et les deux protagonistes cités en 1995 on normalisé les représentation et donné la première version d'UML.
 
-![image](./resources/01/05-Jacobson.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/05-Jacobson.jpg)
 
 En 1997 l'Object Managment Group standardise UML comme langage de modélisation pour l'industrie.
 
-![image](./resources/01/06-OMG.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/06-OMG.jpg)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 UML 2 normalise 14 diagrammes qui s'articulent sur 4 vue + 1.
 
-![image](./resources/01/07-Overview.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/01/07-Overview.jpg)
 
 ### 🏷️ **Logical**
 

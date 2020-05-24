@@ -9,7 +9,7 @@ ___
 
 D'une manière générale, le mot paquetage désigne un ensemble de plusieurs entités regroupées en une seule. C'est un élément commun à plusieurs diagrammes pour leur organisation.
 
-![image](./resources/04/01-Package.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/04/01-Package.jpg)
 
 ___
 
@@ -45,7 +45,7 @@ Le motif CBA possède une organisation orientée vue, très différente de l'org
     * shared
   * ...
 
-![image](./resources/04/angular.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/04/angular.jpg)
 
 ___
 

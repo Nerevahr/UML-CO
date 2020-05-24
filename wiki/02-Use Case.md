@@ -10,7 +10,7 @@ ___
 
 Un cas d'utilisation est une liste d'actions définissant les interactions entre un acteur et un système pour atteindre un objectif. L'acteur peut être un humain ou un autre système externe.
 
-![image](./resources/02/01-Use-Case.jpg)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/01-Use-Case.jpg)
 
 ___
 
@@ -18,26 +18,26 @@ ___
 
 ### 🏷️ **Acteur**
 
-![image](./resources/02/actor.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/actor.png)
 
 Un acteur est un utilisateur du système; utilisateur peut signifier un utilisateur humain, une machine ou même un autre système ou sous-système du modèle.
 
 ### 🏷️ **System**
 
-![image](./resources/02/system.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/system.png)
 
 Un System est un élément non UML utilisé pour définir les limites conceptuelles.
 
 ### 🏷️ **Use Case**
 
-![image](./resources/02/usecase.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/usecase.png)
 
 Un cas d'utilisation est un élément de modélisation UML qui décrit comment un utilisateur du système proposé interagit avec le système pour effectuer une unité de travail discrète.
 
 
 ### 🏷️ **Associate**
 
-![image](./resources/02/associate.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/associate.png)
 
 Une association implique que deux éléments de modèle ont une relation, généralement implémentée en tant que variable d'instance dans une ou les deux classes. 
 
@@ -45,13 +45,13 @@ Une association implique que deux éléments de modèle ont une relation, géné
 
 ### 🏷️ **Include**
 
-![image](./resources/02/include.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/include.png)
 
 Une connexion Include indique que l'élément source inclut les fonctionnalités de l'élément cible.
 
 ### 🏷️ **Extend**
 
-![image](./resources/02/extend.png)
+![image](https://raw.githubusercontent.com/POEC-20-05/UML-CO/master/wiki/resources/02/extend.png)
 
 Un connecteur d'extension est utilisé pour indiquer qu'un élément étend le comportement d'un autre.
 
